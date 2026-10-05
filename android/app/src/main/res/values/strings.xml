@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Jerry Detector</string>
+    <string name="loading_model">Loading model…</string>
+    <string name="camera_permission_denied">Camera permission is required.</string>
+    <string name="model_load_failed">Couldn\'t load model \"%1$s\": %2$s</string>
+    <string name="model_import_failed">Couldn\'t import model: %1$s</string>
+    <string name="model_imported">Imported \"%1$s\"</string>
+    <string name="choose_model">Model</string>
+    <string name="import_model">Import model…</string>
+    <string name="stats">%1$s ▾\n%2$s · %3$.1f FPS · %4$d objects\nconvert %5$.1f · pre %6$.1f · infer %7$.1f · post %8$.1f ms</string>
+</resources>

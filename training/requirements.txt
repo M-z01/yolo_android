@@ -1,0 +1,5 @@
+ultralytics>=8.4
+roboflow
+onnx
+onnxslim
+onnxruntime

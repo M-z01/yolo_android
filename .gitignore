@@ -1,0 +1,23 @@
+# Python / training
+.venv/
+__pycache__/
+*.pyc
+training/datasets/
+training/runs/
+*.pt
+training/**/*.onnx
+
+# Android
+android/.gradle/
+android/.kotlin/
+android/build/
+android/app/build/
+android/local.properties
+android/.idea/
+*.iml
+*.apk
+*.aab
+
+# OS / editors
+.DS_Store
+.vscode/
